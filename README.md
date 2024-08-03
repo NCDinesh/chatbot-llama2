@@ -31,7 +31,7 @@ Setup
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/legal-advice-chatbot.git
+git clone https://github.com/NCDinesh/legal-advice-chatbot.git
 cd legal-advice-chatbot
 Install Dependencies
 Create a virtual environment and activate it:
